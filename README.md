@@ -75,7 +75,7 @@ streamlit run streamlit_app.py
 ✅ Frontend running on: `http://localhost:8501`
 
 ## How to Use
-1. **Upload pickup images** (vehicle when picked up)
+1. **Upload pickup images** (vehicle when picked up (you can use the images in the data folder))
 2. **Upload return images** (vehicle when returned) 
 3. **Click "Assess Damage"** to analyze
 4. **View results** similar to the screenshot above
