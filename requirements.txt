@@ -33,6 +33,7 @@ py-cpuinfo
 pyparsing
 python-dateutil
 python-dotenv
+python-multipart
 pytz
 PyYAML
 requests
