@@ -8,7 +8,6 @@ contourpy
 cycler
 filelock
 fastapi
-Flask
 fonttools
 fsspec
 idna
@@ -18,10 +17,6 @@ kiwisolver
 MarkupSafe
 matplotlib
 mpmath
-mysql
-mysql-connector
-mysql-connector-python
-mysqlclient
 networkx
 numpy
 opencv-python
@@ -39,15 +34,15 @@ PyYAML
 requests
 scipy
 seaborn
+streamlit
 six
 sympy
 torch
 torchvision
 tqdm
 typing_extensions
-tzdata
 ultralytics
 ultralytics-thop
 urllib3
 uvicorn
-Werkzeug
+
