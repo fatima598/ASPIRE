@@ -9,7 +9,7 @@ import json
 from datetime import datetime
 
 # Configuration
-API_BASE_URL = "http://localhost:8000"
+API_BASE_URL = "http://127.0.0.1:8000"
 
 
 st.set_page_config(
@@ -359,7 +359,7 @@ def assess_damage_with_visualization():
             response = requests.post(
                 f"{API_BASE_URL}/api/compare-with-visualization",
                 files=files,
-                timeout=60
+                timeout=300
             )
             
             if response.status_code == 200:
