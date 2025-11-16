@@ -10,7 +10,7 @@ This project is an **AI-powered vehicle condition assessment system** designed f
 - **Before/After Comparison**: Compares pickup and return images to identify new damages  
 - **Cost Estimation**: Provides estimated repair costs based on detected damages
 - **Visual Reporting**: Displays comprehensive damage assessment reports
-- **REST API**: Exposes endpoints for integration with other systems
+- **FAST API**: Exposes endpoints for integration with other systems
 
 ## Real Application Results
 
@@ -85,7 +85,7 @@ streamlit run streamlit_app.py
 - ✅ Before/after image comparison  
 - ✅ Repair cost estimation
 - ✅ Severity assessment
-- ✅ REST API endpoints
+- ✅ FAST API endpoints
 - ✅ Web interface
 
 ## 📊 Project Structure
