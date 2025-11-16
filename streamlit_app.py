@@ -9,7 +9,8 @@ import json
 from datetime import datetime
 
 # Configuration
-API_BASE_URL = "http://localhost:8000"
+API_BASE_URL = "https://aspire-thq2.onrender.com"
+
 
 st.set_page_config(
     page_title="Smart Damage Detection Dashboard",
