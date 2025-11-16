@@ -9,7 +9,7 @@ import json
 from datetime import datetime
 
 # Configuration
-API_BASE_URL = "https://aspire-thq2.onrender.com"
+API_BASE_URL = "http://localhost:8000"
 
 
 st.set_page_config(
